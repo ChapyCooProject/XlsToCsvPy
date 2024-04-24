@@ -93,8 +93,3 @@
         %S：秒を表す。
         ```
 
-### ダウンロード
-
-  - 実行ファイルは、下記URLからダウンロードできます。  
-    https://drive.google.com/drive/folders/1b3sa8OYJcE8Brg22wiagkk7OABDlZ1bb?usp=sharing
-

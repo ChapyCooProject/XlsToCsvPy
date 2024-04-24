@@ -88,19 +88,14 @@
 
         `※Python datetime notation`
         ```
-        %Y: Represents the year (4 digits).
-        %y: Represents the year (2 digits).
-        %m: Represents the month.
-        %d: Represents the day.
-        %H: Represents the hour (24-hour clock).
-        %I: Represents the hour (12-hour clock).
-        %p: Represents AM or PM.
-        %M: Represents the minute.
-        %S: Represents the second.
+        %Y: year (4 digits).
+        %y: year (2 digits).
+        %m: month.
+        %d: day.
+        %H: hour (24-hour clock).
+        %I: hour (12-hour clock).
+        %p: AM or PM.
+        %M: minute.
+        %S: second.
         ```
-
-### Downloading the Executable File
-
-  - The executable file can be downloaded from the following URL.  
-    [Download](https://drive.google.com/drive/folders/1b3sa8OYJcE8Brg22wiagkk7OABDlZ1bb?usp=sharing)
 
