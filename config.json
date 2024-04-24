@@ -1,0 +1,27 @@
+{
+    "sheet_name": "Sheet1",
+    "excel_password": "",
+    "has_header": true,
+    "has_index": false,
+    "encoding": "utf_8",
+    "sep_char": ",",
+    "write_mode": "w",
+    "quoting": 1,
+    "column_mapping": {
+        "0":  {"csv_col_name": "マイナンバー",      "data_type": "文字列"},
+        "1":  {"csv_col_name": "氏名",              "data_type": "文字列"},
+        "2":  {"csv_col_name": "氏名（ひらがな）",  "data_type": "文字列"},
+        "3":  {"csv_col_name": "年齢",              "data_type": "整数"},
+        "4":  {"csv_col_name": "生年月日",          "data_type": "日付", "fmt": "%Y年%m月%d日"},
+        "5":  {"csv_col_name": "性別",              "data_type": "文字列"},
+        "6":  {"csv_col_name": "血液型",            "data_type": "文字列"},
+        "7":  {"csv_col_name": "メールアドレス",    "data_type": "文字列"},
+        "8":  {"csv_col_name": "電話番号",          "data_type": "文字列"},
+        "9":  {"csv_col_name": "携帯電話番号",      "data_type": "文字列"},
+        "10": {"csv_col_name": "郵便番号",          "data_type": "文字列"},
+        "11": {"csv_col_name": "住所",              "data_type": "文字列"},
+        "12": {"csv_col_name": "会社名",            "data_type": "文字列"},
+        "13": {"csv_col_name": "更新日",            "data_type": "日付", "fmt": "%Y/%m/%d"},
+        "14": {"csv_col_name": "更新時刻",          "data_type": "時刻", "fmt_from": "%H:%M:%S", "fmt_to": "%H:%M"}
+    }
+}
